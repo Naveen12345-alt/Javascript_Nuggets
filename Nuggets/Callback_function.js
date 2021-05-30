@@ -28,5 +28,6 @@ handleName('Naveen', (value) => console.log(value))
  * usage:>
  * array methods (eg: map, filter, etc)
  * setTimeout, setInterval
- * event listeners
+ * event listeners,
+ * etc
  */
